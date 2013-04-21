@@ -30,10 +30,8 @@ How to install this package
 python setup.py install
 
 
-Author and license information
+License information
 ==============================
-
-Copyright (C) 2012 Don Smiley <ds@sidorof.com>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
